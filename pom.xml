@@ -30,6 +30,12 @@
             <version>2.3.1</version>
             <scope>provided</scope>
         </dependency>
+        <!-- JSON -->
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20240303</version>
+        </dependency>
         <!-- MySQL Connector -->
         <dependency>
             <groupId>mysql</groupId>
